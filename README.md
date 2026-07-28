@@ -97,7 +97,7 @@
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Poorvikabhatia&layout=compact&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Poorvikabhatia&theme=github-dark)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Poorvikabhatia&theme=github-dark)
 
 ---
 
