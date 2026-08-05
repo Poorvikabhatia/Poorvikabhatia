@@ -1,19 +1,26 @@
-# Hi there, I'm Poorvika Bhatia 👋
+<h1 align="center">Hi 👋, I'm Poorvika Bhatia</h1>
 
-🎓 **Final-Year Electronics & Communication Engineering Student**  
-📊 **Aspiring Data Analyst | Business Intelligence | IoT & Embedded Systems Enthusiast**  
-💡 Passionate about turning data into actionable insights and developing innovative solutions by combining Data Analytics, Machine Learning, IoT, and Embedded Systems.
+<h3 align="center">Final-Year Electronics & Communication Engineering Student</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1200&color=36BCF7&center=true&vCenter=true&width=850&lines=Aspiring+Data+Analyst;Business+Intelligence+Enthusiast;IoT+%26+Embedded+Systems;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Turning+Data+into+Actionable+Insights+🚀" />
+</p>
+
+<p align="center">
+💡 Passionate about transforming data into actionable insights and building intelligent solutions by combining
+<strong>Data Analytics</strong>, <strong>Machine Learning</strong>, <strong>IoT</strong>, and <strong>Embedded Systems</strong>.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Final-Year Electronics & Communication Engineering student passionate about **Data Analytics, Business Intelligence, IoT, and Embedded Systems**
-- 📊 Skilled in **Python, SQL, Power BI, Pandas, Machine Learning, Data Visualization, and C/C++**
-- 🌐 Developed end-to-end projects in **Data Analytics, Healthcare AI, and IoT**, integrating software with real-world applications
-- 🔧 Interested in building intelligent systems by combining **data-driven insights, IoT, and embedded technologies**
-- 📚 Continuously learning **Power BI, Cloud Data Analytics, Embedded Systems, and modern AI technologies**
-- 🤝 Open to **Data Analyst, Business Analyst, BI Analyst, IoT, Embedded Systems, and Python Developer Internship Opportunities**
+- 🎓 Final-Year Electronics & Communication Engineering Student
+- 📊 Passionate about **Data Analytics, Business Intelligence, IoT & Embedded Systems**
+- 💻 Skilled in **Python, SQL, Power BI, Pandas, Machine Learning, C/C++**
+- 🌐 Built projects in **Healthcare AI, Data Analytics, and IoT**
+- 📚 Currently learning **Cloud Data Analytics, Embedded Systems & Modern AI**
+- 🤝 Open to **Data Analyst, BI Analyst, IoT, Embedded Systems & Python Developer** opportunities
 
 ---
 
