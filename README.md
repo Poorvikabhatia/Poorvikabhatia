@@ -106,10 +106,6 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Poorvikabhatia&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Poorvikabhatia&layout=compact&theme=github_dark)
-
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Poorvikabhatia&theme=github-dark)
 
 ---
