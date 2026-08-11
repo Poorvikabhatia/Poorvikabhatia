@@ -49,8 +49,16 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### IoT & Tools
+### IoT & Embedded Systems
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![ThingSpeak](https://img.shields.io/badge/ThingSpeak-0076A8?style=for-the-badge)
+![Blynk](https://img.shields.io/badge/Blynk-23C48E?style=for-the-badge)
 ![ThingsBoard](https://img.shields.io/badge/ThingsBoard-2E5AAC?style=for-the-badge)
+![Tinkercad](https://img.shields.io/badge/Tinkercad-1477D1?style=for-the-badge&logo=autodesk&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![NI Multisim](https://img.shields.io/badge/NI%20Multisim-FF7139?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -95,6 +103,8 @@
 ## 🏆 Certifications
 
 - Introduction to Internet of Things (Elite + Silver, Top 5%) - NPTEL (IIT Kharagpur)
+- Data Analytics Essential - Cisco
+- AI in Microsoft Excel - SkillEcted
 - Google AI & Prompting Essentials - Coursera
 - AI Foundations Associate - Oracle
 - Forward Learning Program - Mckinsey & Company
