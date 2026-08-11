@@ -62,6 +62,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
+## 📊 Contribution Graph
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Poorvikabhatia/Poorvikabhatia/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Poorvikabhatia/Poorvikabhatia/output/pacman-contribution-graph.svg">
@@ -72,31 +76,35 @@
 
 ## 📌 Featured Projects
 
-### 📊 Netflix Content Analytics
-- Cleaned and analyzed **8,800+ Netflix titles** using Python and SQL.
-- Built an interactive **Power BI dashboard** with KPIs and business insights.
-- Identified trends across countries, genres, release years, and content types.
+### 📊 [Netflix Content Analytics](https://github.com/Poorvikabhatia/Netflix-Analytics-Project.git)
+
+- Performed **ETL, data cleaning, and exploratory analysis** on 8,800+ Netflix titles using Python and SQL.
+- Built an interactive **Power BI dashboard** with KPI cards, slicers, trends, and content insights.
+- Analyzed content distribution across **countries, genres, release years, and content types**.
 
 ---
 
-### 🧠 Parkinson's Disease Prediction
-- Developed a machine learning model for Parkinson's disease prediction.
-- Built a **FastAPI backend** with PostgreSQL integration.
-- Compared multiple ML models and selected the best-performing classifier.
+### 🏥 [Alzheimer's Disease Detection](https://github.com/Poorvikabhatia/Alzheimer_Detection.git)
+
+- Developed a **Random Forest classification model** achieving **94.4% accuracy**.
+- Performed data preprocessing, feature analysis, and model evaluation on healthcare data.
+- Built an interactive **Streamlit web application** for real-time predictions.
 
 ---
 
-### 🏥 Alzheimer's Disease Detection
-- Built a Random Forest model achieving **94.4% prediction accuracy**.
-- Developed a Streamlit web application for real-time predictions.
-- Performed feature engineering and data preprocessing on healthcare data.
+### 🌱 [AgriSense AI – Intelligent Irrigation System](https://github.com/Poorvikabhatia/AgriSense-AI.git)
+
+- Developed an **IoT-based intelligent irrigation system** using ESP8266, soil moisture and DHT11 sensors.
+- Integrated sensor data with **FastAPI, Python, and ThingSpeak** for monitoring and analysis.
+- Designed a smart irrigation workflow using environmental and soil-moisture data to support **water-efficient agriculture**.
 
 ---
 
-### 🌐 Smart Campus IoT
-- Developed an IoT-enabled Smart Campus Management System.
-- Integrated **ThingsBoard**, FastAPI, and PostgreSQL.
-- Designed modules for monitoring campus facilities and IoT devices.
+### 🔊 [Smart Noise Monitoring System](https://github.com/Poorvikabhatia/smart-noise-monitoring-iot.git)
+
+- Developed an **IoT-based noise monitoring system** for real-time environmental sound-level monitoring.
+- Integrated **sensors, microcontroller, and IoT connectivity** for collecting and transmitting noise data.
+- Applied **embedded systems and IoT concepts** to analyze noise levels and identify high-noise environments.
 
 ---
 
