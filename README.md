@@ -3,7 +3,7 @@
 <h3 align="center">Final-Year Electronics & Communication Engineering Student</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1200&color=36BCF7&center=true&vCenter=true&width=850&lines=Aspiring+Embedded+%26+IoT+Engineer;Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Turning+Data+into+Actionable+Insights+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1200&color=36BCF7&center=true&vCenter=true&width=850&lines=Aspiring+Embedded+%26+IoT+Engineer;Data+Analytics+Enthusiast;C+%7C+Arduino+%7C+ESP8266+%7C+Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Actionable+Insights+🚀" />
 </p>
 
 <p align="center">
